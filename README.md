@@ -182,4 +182,4 @@ app.MapPost("/api/payments/paynow/webhook", async (
 All payloads sent to and received from Paynow are signed using SHA-512 hashes. `Furrow.Payments` strictly enforces dictionary key ordering during hashing and response verification to prevent tampering or replay attacks.
 
 ## License
-MIT License. Developed by Showline / Furrow.
+MIT License. Developed by KudahNdhlovu / Furrow.
